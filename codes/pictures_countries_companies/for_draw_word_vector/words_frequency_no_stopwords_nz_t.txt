@@ -1,0 +1,1 @@
+[('#FinTech', 2), ('#OpenBanking', 2), ('#network', 2), ('#Australia', 2), ('#NewZealand', 2), ('@Alipay', 2), ('@WechatPay', 2), ('@UnionPay_IntlTime', 2), ('ban', 2), ('Wechat', 2), ('TikTok', 2), ('.', 2), ('Please', 2), ('sign', 2), ('retweet', 2), ('chance.', 2), ('Thank', 2), ('#APIs', 1), ('you!\x00\x00#NewZealand#APIs', 1), ('you!\x00\x00#NewZealand', 1)]
